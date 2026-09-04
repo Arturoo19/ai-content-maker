@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+*.db
 PROJECT_CONTEXT.md
 
 # Environment variables

@@ -5,6 +5,6 @@ class TelegramContentGenerator:
         return(
             f"Draft Telegram post for project #{request.project_id}\n\n"
             f"Topic: {request.topic}\n\n"
-            "This is a placeholder. Later, this service call the LLM"
+            "This is a placeholder. Later, this service will call the LLM."
         )
     

@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+PROJECT_CONTEXT.md
+
+# Environment variables
+.env
 
 # Virtual environments
 .venv

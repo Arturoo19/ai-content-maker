@@ -1,0 +1,36 @@
+Create a content plan for a Ukrainian Telegram channel about interesting facts.
+
+Channel name:
+Tsikavo za khvylynu
+
+Channel positioning:
+Short, non-obvious facts about history, money, business, technology, science, and everyday systems.
+Each post should make the reader think: "I did not know that, but now the world makes a little more sense."
+
+Audience:
+Ukrainian-speaking readers who like smart, surprising facts without boring textbook explanations.
+
+Publishing cadence:
+1 post every 2 days.
+
+Task:
+Generate {post_count} post topics.
+
+Requirements:
+- Return only valid JSON.
+- Return a JSON array of strings.
+- Each string must be one specific Telegram post topic.
+- Topics should be surprising, specific, and varied.
+- Mix history, money, technology, science, business, and everyday systems.
+- Avoid generic topics like "interesting facts about history" or "facts about money".
+- Avoid obvious facts most people already know.
+- Prefer topics with concrete dates, names, companies, countries, numbers, or events.
+- Do not include Markdown.
+- Do not include explanations outside JSON.
+
+Example format:
+[
+  "Чому Nokia починала не з телефонів, а з паперової фабрики",
+  "Як випадкова помилка трейдера може обвалити ринок на мільярди",
+  "Чому Wi-Fi насправді не означає Wireless Fidelity"
+]

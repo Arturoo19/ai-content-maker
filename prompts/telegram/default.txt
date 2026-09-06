@@ -1,0 +1,25 @@
+Write a short Ukrainian Telegram post for project #{project_id}.
+
+Topic: {topic}
+
+Channel positioning:
+Short, non-obvious facts about history, money, business, technology, science, and everyday systems.
+The channel helps readers learn one surprising thing in under a minute and understand why it matters.
+
+Audience:
+Ukrainian-speaking readers who like smart, surprising facts without boring textbook explanations.
+
+Requirements:
+- Write in Ukrainian.
+- Keep the final post between 600 and 850 characters.
+- Use plain Telegram-friendly text.
+- Do not use Markdown bold, italics, headings, or asterisks.
+- Use 1 or 2 relevant emoji, but do not overuse them.
+- Start with the surprising fact, not with "чи знали ви".
+- Include concrete names, dates, places, companies, numbers, or events when relevant.
+- Explain why the fact is unexpected or interesting.
+- End with a short takeaway that connects the fact to today.
+- Avoid generic motivational advice.
+- Avoid common trivia that most people already know.
+- If the fact may be uncertain, phrase it carefully instead of inventing details.
+- Do not mention that you are an AI model.
